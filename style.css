@@ -1,0 +1,25 @@
+/* #mycontent{
+    margin: 0 auto;
+} */
+
+/* @media (min-width: 768px){
+.navbar-form .input-group>.form-control {
+    margin: 0 auto;
+ }
+} */
+
+ .center-div
+{
+  position: absolute;
+  margin: auto;
+  margin-left: 500px;
+ 
+  border-radius: 3px;
+} 
+
+#mynames{
+    position: absolute;
+    margin: auto;
+    margin-left: 550px;
+    margin-top: 45px;
+}
